@@ -15,7 +15,7 @@ As of yet, we __don't know how many barrels there will be__, but we do have the 
 - [x] Work out how to use Pixy API (Max again).
 - [x] Work out how to estimate pixel directions.
 - [ ] Make a pushing-attachment.
-    * I don't think either of us has much knowledge of how to do this. We might have to beg for help.
+    * Josh has made an attachment, seems adequate
 - [ ] Interface with servo.
     * I don't know who's doing this. It might be us. It might not be. I'm not really very sure.
 - [ ] Work out where barrels are relative to robot.
